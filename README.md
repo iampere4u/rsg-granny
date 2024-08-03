@@ -1,7 +1,7 @@
 # RSG Community
 
 - [DISCORD](https://discord.gg/rsg-redm-framework-914413479157448744)
-- [GITHUB](https://github.com/Rexshack-RedM)
+- [GITHUB](https://github.com/iampere4u/rsg-granny)
 
 # Dependancies
 
