@@ -6,11 +6,11 @@ description 'rsg-granny'
 version '2.0'
 
 client_scripts {
-    'client/client.lua'
+    'client.lua'
 }
 
 server_scripts {
-    'server/server.lua'
+    'server.lua'
 }
 
 shared_scripts {
