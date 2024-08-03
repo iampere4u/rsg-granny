@@ -1,5 +1,6 @@
 # RSG Community
 
+Now Granny heals and also revives the players!
 - [DISCORD](https://discord.gg/rsg-redm-framework-914413479157448744)
 - [GITHUB](https://github.com/iampere4u/rsg-granny)
 
@@ -19,7 +20,7 @@
 
 - ``add the following to your server.cfg file : ensure rsg-granny``
 
-# Granny revive System
+# Granny Revive and Heal System
 
 - Locations hidden
 
